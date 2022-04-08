@@ -1,3 +1,5 @@
+For of https://github.com/phoenixframework/vscode-phoenix for the purpose of submitting it to Open VSX Registry. 
+
 # Phoenix package for VS Code
 
 Syntax highlighting support for Phoenix templates.
